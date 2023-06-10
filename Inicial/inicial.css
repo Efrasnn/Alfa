@@ -15,8 +15,8 @@
     gap: 10px;
     justify-items: center;
   }
-
- .logo {
+ 
+  .logo {
   height: 200px;
 }
 
@@ -65,6 +65,9 @@
 @media(max-width:600px){
   .subtitulo {
     font-size: 30px ;
+  }
+  .imagem-1, img {
+    width: 100px;
   }
 }
 
