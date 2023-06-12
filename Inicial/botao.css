@@ -1,8 +1,8 @@
 .botao {
-  background: #f4f4f4;
+  background: var(--color-1);
   padding: 10px 20px;
   border-radius: 4px;
-  color: #141414;
+  color: var(--color-4);
   text-transform: uppercase;
   border-radius: 5px;
   border: solid transparent;
