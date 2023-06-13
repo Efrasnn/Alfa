@@ -21,6 +21,15 @@ div .foto-conteudo {
   color: var(--color-1);
 }
 
+@media(max-width:600px) {
+  .titulo{
+    font-size: 1.30rem;
+  }
+  .texto-conteudo {
+    font-size:  1.25rem;
+  }
+}
+
 span {
   color: var(--color-1);
 }
@@ -37,6 +46,15 @@ span {
   font-size: 2rem;
 }
 
+@media(max-width:600px){
+  .subtitulo {
+    font-size: 1.30rem;
+  }
+  .texto-conteudo-conteudo {
+    font-size: 1.25rem;
+  }
+}
+
 .introducao-conteudo-2 {
   display: grid;  
 }
@@ -48,5 +66,5 @@ span {
   align-content: center;
   margin: 0 auto;
   border-radius: 4px;
-
 }
+
