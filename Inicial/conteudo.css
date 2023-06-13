@@ -33,7 +33,7 @@ div .foto-conteudo {
 
 @media(max-width:600px) {
   .titulo{
-    font-size: 1.25rem;
+    font-size: 1.10rem;
   }
   .texto-conteudo {
     font-size:  1rem;
